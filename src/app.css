@@ -22,9 +22,16 @@ This is where the vast majority of your CSS code goes. */
   border-color: darkgoldenrod;
   color: cornsilk;
   width: 60%;
-  border-radius: 10;
+  border-radius: 50;
   padding: 5 10;
 }
 
-TextField {
+.input-text {
+  color: darkgoldenrod;
+  text-align: center;
+  font-weight: bold;
+  font-style: italic;
+  text-decoration: underline;
+  padding: 10;
+  margin-top: 5%;
 }

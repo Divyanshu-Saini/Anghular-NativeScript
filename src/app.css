@@ -31,7 +31,10 @@ This is where the vast majority of your CSS code goes. */
   text-align: center;
   font-weight: bold;
   font-style: italic;
+  font-size: 20;
+  border-bottom-color: black;
+  border-bottom-width: 3;
   text-decoration: underline;
-  padding: 10;
+  padding: 10 0;
   margin-top: 5%;
 }

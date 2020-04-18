@@ -1,0 +1,18 @@
+/* Add mobile styles for the component here.  */
+
+Label {
+  width: 50;
+  height: 50;
+}
+
+#i1 {
+  background: blue;
+}
+
+#i2 {
+  background: red;
+}
+
+#i3 {
+  background: green;
+}
